@@ -1,0 +1,14 @@
+Package: testpackageNHSR
+Title: Print noise an animal makes
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jake", "Tufts", , "Jake.Tufts@mbhci.nhs.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package prints out the noise an animal makes. It takes 2 string inputs, the animal and the noise the animal makes. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
